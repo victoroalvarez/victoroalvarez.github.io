@@ -1,16 +1,11 @@
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>VictorOAlvarez.com</title>
-  <meta http-equiv="refresh" content="0; url=https://www.victoroalvarez.com/portfolio"/>
+---
+layout: default
+---
+<section class="posts">
+<ul>
+{% for post in site.posts %}
+<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+{% endfor %}
+</ul>
+</section>
 
-</head>
-<body>
-<!-- partial:index.partial.html -->
-<!-- HTML redirect boiler plate -->
-<!-- This page's head redirects user to www.victoroalvarez.com/portfolio -->
-<!-- partial -->
-  
-</body>
-</html>
