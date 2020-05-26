@@ -1,7 +1,7 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Victor O. Alvarez
+url: https://www.victoroalvarez.com
+title: Victor O. Alvarez
+description: Victor's technology blog
 twitter:
   username: victoroalvarez
   card: summary
@@ -11,7 +11,7 @@ author:
   name: Victor O. Alvarez
   avatar:
   email: victoroalvarez@protonmail.com
-  url: #yoururl
+  url: https://www.victoroalvarez.com
 permalink: pretty
 
 baseurl: ""
