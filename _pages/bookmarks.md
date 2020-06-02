@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 # Public Bookmarks
 Collection of useful weblinks. Fork and you may create your own version by editing markdown
 
