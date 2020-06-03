@@ -3,8 +3,7 @@ layout: page
 title: Bookmarks
 ---
 
-# Public Bookmarks
-Collection of useful weblinks. Fork and you may create your own version by editing markdown
+Collection of useful weblinks.
 
 ## Apps
 - [CMD Challenge](https://cmdchallenge.com/)
