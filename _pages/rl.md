@@ -113,3 +113,6 @@ Collection of useful weblinks.
 - [The New York Public Library Has a Human Google](https://www.youtube.com/watch?v=PfqgDG1qrKg)
 - [1979 Computer Store Manager Predicts Future](https://www.youtube.com/watch?v=eNT1L3jGjbA) Interview with a Computer store manager which defines computing as "a reflection of your own imagination and your own intelligence" which is expressed through programming and can help automate task and improve human life.
 - [Powers of Ten (1977)](https://www.youtube.com/watch?v=0fKBhvDjuy0) A film which helps to visualize the scale of the universe. It transport the viewer from macroscopic scale outwards to interstellar space and then, back from macroscopic scale into microscopic scale cells, dna and atoms level.
+
+## Web Development
+- [Jamstack.wtf](https://jamstack.wtf)
