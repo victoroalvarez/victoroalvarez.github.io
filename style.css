@@ -1,0 +1,116 @@
+.navbar {
+  margin: 0px;
+  border-radius: 0px;
+  /*font-size: 1.2em;*/
+}
+
+.jumbotron {
+  color: #001f3f;
+  border-radius: 0px;
+  /*color: #31708f;*/
+  background-color: #7fdbff;
+  /*background-color: #d9edf7;*/
+  /* margin-top: 56px; navbar clearing */
+  border-radius: 0px;
+}
+
+.my_panel {
+  /*margin-top: 1em;*/
+  padding: 25px;
+  background-color: #dddddd;
+  /*border-radius: 6px;*/
+}
+
+#about,
+#portfolio,
+#publications,
+#contact,
+#resources {
+  background-color: white;
+}
+
+p,
+table,
+footer,
+li {
+  font-family: "Open Sans", sans-serif;
+  /*font-size: 1.2em;*/
+}
+
+a {
+  color: #0074d9;
+}
+
+.headers {
+  font-family: "Coda Caption", sans-serif;
+  /*font-family: 'Open Sans', sans-serif;*/
+  color: #001f3f;
+}
+
+h1 {
+  font-family: "Coda Caption", sans-serif;
+  /*font-family: 'Open Sans', sans-serif;*/
+  color: #001f3f;
+}
+
+h1.my-title {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+img {
+  height: 150px;
+  width: auto;
+}
+
+.fa {
+  color: #001f3f;
+  margin: 0.2em;
+}
+
+.fas {
+  color: #001f3f;
+  margin: 0.2em;
+}
+
+.fab {
+  color: #001f3f;
+  margin: 0.2em;
+}
+
+.col-sm {
+  /*opacity: 0.9;*/
+  padding: 25px 25px;
+  /*border-style: solid;*/
+}
+
+/* Tables */
+.table {
+  margin: auto;
+  width: 50%;
+  float: none;
+}
+
+.table th {
+  text-align: center;
+}
+
+#bio {
+  /*font-size: 1.2em;*/
+}
+
+footer {
+  color: #001f3f;
+  margin-top: 25px;
+}
+
+#footer {
+  background-color: #dddddd;
+}
