@@ -66,8 +66,12 @@ h3 {
 }
 
 img {
-  height: 150px;
+  height: 50px;
   width: auto;
+}
+
+.batch-primary {
+  background-color: #0074D9;
 }
 
 .fa {
