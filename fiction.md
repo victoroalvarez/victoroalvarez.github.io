@@ -1,3 +1,7 @@
+---
+permalink: /about/
+---
+
 # Victor O. Alvarez
 Links to fiction written by Victor O. Alvarez.
 
